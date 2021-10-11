@@ -32,7 +32,9 @@ about:
   license: Apache 2.0
   license_family: Apache
   summary: 'YACS -- Yet Another Configuration System'
-  description: YACS -- Yet Another Configuration System
+  description: |
+    YACS -- Yet Another Configuration System
+    YACS was created as a lightweight library to define and manage system configurations, such as those commonly found in software designed for scientific experimentation. 
   doc_url: https://github.com/rbgirshick/yacs
   dev_url: https://github.com/rbgirshick/yacs
 

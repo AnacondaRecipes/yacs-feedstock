@@ -31,8 +31,8 @@ test:
     - yacs
   commands:
     - pip check
+    # 0 tests found on Windows.
     - python ${SP_DIR}/yacs/tests.py  # [unix]
-    - pytest -v %SP_DIR%\\yacs\\tests  # [win]
   requires:
     - pip
     - pytest
